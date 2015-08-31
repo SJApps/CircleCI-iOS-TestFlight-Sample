@@ -12,6 +12,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+    
  
 
     //862fc9badfda97997daabbcdb795a8d25aa14271
