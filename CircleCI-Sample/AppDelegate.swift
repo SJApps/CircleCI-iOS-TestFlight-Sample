@@ -5,7 +5,6 @@
 //  Created by Takahiro Horikawa on 1/7/15.
 //  Copyright (c) 2015 Poly's Factory. All rights reserved.
 //
-
 import UIKit
 
 @UIApplicationMain
